@@ -164,7 +164,7 @@ export default function ServicesPage() {
             className="max-w-3xl mx-auto text-center"
           >
             <h2 className="text-4xl md:text-5xl font-bold mb-6">
-              Besoin d'un service personnalisé ?
+              Besoin d&apos;un service personnalisé ?
             </h2>
             <p className="text-xl mb-8 text-gray-200">
               Contactez-nous pour discuter de vos besoins spécifiques et obtenir 

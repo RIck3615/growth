@@ -20,7 +20,7 @@ export default function CtaSection() {
             Prêt à transformer votre entreprise ?
           </h2>
           <p className="text-xl mb-8 text-gray-200">
-            Contactez-nous dès aujourd'hui pour discuter de vos besoins 
+            Contactez-nous dès aujourd&apos;hui pour discuter de vos besoins 
             et découvrir comment nous pouvons vous accompagner.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">

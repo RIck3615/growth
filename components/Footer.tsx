@@ -14,7 +14,7 @@ export default function Footer() {
               </h3>
             </Link>
             <p className="text-gray-300 mb-4 max-w-md">
-              Entreprise de conseil, de formation et d'accompagnement engagée 
+              Entreprise de conseil, de formation et d&apos;accompagnement engagée 
               dans la transformation économique et sociale des entreprises en 
               RDC et dans le monde.
             </p>

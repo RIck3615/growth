@@ -95,7 +95,7 @@ function ContactContent() {
                       <Clock className="h-6 w-6 text-chocolate" />
                     </div>
                     <div>
-                      <h3 className="font-semibold text-dark mb-1">Heures d'ouverture</h3>
+                      <h3 className="font-semibold text-dark mb-1">Heures d&apos;ouverture</h3>
                       <p className="text-gray-600">
                         Lundi - Vendredi: 9h00 - 18h00<br />
                         Samedi: 9h00 - 13h00

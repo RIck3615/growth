@@ -65,7 +65,7 @@ export default function AboutPage() {
               <p className="text-lg text-gray-700 leading-relaxed">
                 Accompagner les entreprises et organisations dans leur transformation 
                 économique et sociale en leur offrant des services de conseil, de 
-                formation et d'accompagnement de la plus haute qualité. Nous nous 
+                formation et d&apos;accompagnement de la plus haute qualité. Nous nous 
                 engageons à créer un impact positif et durable en République 
                 Démocratique du Congo et dans le monde.
               </p>
@@ -153,18 +153,18 @@ export default function AboutPage() {
                 Growth in Peace Services a été fondée avec la conviction que chaque 
                 entreprise mérite un accompagnement de qualité pour réaliser son plein 
                 potentiel. Depuis notre création, nous avons accompagné des centaines 
-                d'organisations dans leur transformation.
+                d&apos;organisations dans leur transformation.
               </p>
               <p className="text-lg leading-relaxed mb-6">
-                Notre équipe d'experts combine une expertise technique approfondie avec 
+                Notre équipe d&apos;experts combine une expertise technique approfondie avec 
                 une compréhension approfondie des défis spécifiques aux entreprises en 
                 République Démocratique du Congo. Nous nous engageons à fournir des 
                 solutions sur mesure qui créent de la valeur durable.
               </p>
               <p className="text-lg leading-relaxed">
-                Aujourd'hui, nous sommes fiers d'être reconnus comme un partenaire de 
+                Aujourd&apos;hui, nous sommes fiers d&apos;être reconnus comme un partenaire de 
                 confiance pour la transformation organisationnelle, avec un impact qui 
-                s'étend bien au-delà de nos frontières.
+                s&apos;étend bien au-delà de nos frontières.
               </p>
             </div>
           </motion.div>
