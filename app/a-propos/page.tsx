@@ -1,7 +1,7 @@
 'use client'
 
 import { motion } from 'framer-motion'
-import { Target, Eye, Values, Award, Users, Globe } from 'lucide-react'
+import { Target, Eye, Award, Users, Globe } from 'lucide-react'
 
 const values = [
   {
